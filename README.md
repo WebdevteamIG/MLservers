@@ -21,5 +21,7 @@ Many ML models are being created as a research phase and not being used in any m
 <li>python manage.py runserver</li>
 </ol>
 
+## Notes
+We are not using serializer or other concepts to reduce the complexity and easy flexibility of the application <br>
 
 
